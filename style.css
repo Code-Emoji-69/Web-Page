@@ -1,0 +1,82 @@
+
+
+.DIV{
+    background-color: antiquewhite;
+    width: 800px;
+    height: 800px;
+    margin: auto;
+    border-radius: 710px;
+    background-image: url(Images/Smiley\ Teeth.jpg),url(Images/Eye-Blinking-gif.gif);
+    background-repeat: no-repeat, no-repeat;
+    background-size:  800px, 890px;
+    background-position: 1px 510px, -60px -80px;
+    
+}
+
+#Rohit {
+background: rgba(46, 139, 87,0.7);
+border-radius: 25px;
+margin: auto;
+padding: 50px;
+width: 100px;
+height: 101px;
+text-decoration: underline;
+position: relative;
+top: 190px;
+right: 230px;
+
+}
+
+
+#Deepak {
+    background: rgba(234,239,44,0.6);
+    border-radius: 25px;
+    margin: auto;
+    padding: 50px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 20px;
+    left: 240px;
+    text-decoration: underline;
+    
+}
+
+.btn{
+    padding: -.02rem 3rem;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, red,orange,green,blue,indigo,violet);
+    font-weight: bolder;
+    color: rgb(242, 242, 242);
+    margin: 20px;
+    box-shadow: 0px 10px 10px rgba(62, 78, 123,1);
+    transition: all 1s ease 0s;
+    outline: none;
+    background-color: white;
+    color: black;
+    border: 2px solid #04AA6D;
+    position: relative;
+    left: 43%;
+    cursor: pointer;   
+}
+
+.Anchor{
+    display: block;
+    color: antiquewhite;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    padding: inherit;
+}
+
+#SUBMITBTN{
+    background-image: linear-gradient(to right, red,orange,green,blue,indigo,violet);
+    padding: 20px;
+    color: azure;
+    border-radius: 12px;
+    
+}
+.sbtn{
+    display: inline-block;
+    cursor: pointer;
+}
